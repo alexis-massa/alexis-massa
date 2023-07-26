@@ -84,10 +84,7 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="25px"> Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexis-massa&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api?username=alexis-massa&show_icons=true&theme=dark#gh-light-mode-only" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis-massa&show_icons=true&theme=dark" />
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=alexis-massa&theme=algolia&background=0d1117&hide_border=true" />
