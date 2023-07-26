@@ -13,7 +13,7 @@
 
 <!-- TODO -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About me
-[![](https://visitcount.itsvg.in/api?id=alexis-massa&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alexis-massa&label=Profile%20Views&icon=5&pretty=true)]()
 
 <!-- 
 - 🔭 I’m currently working on 
