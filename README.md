@@ -54,7 +54,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-grey.svg?style=for-the-badge&logo=jinja&logoColor=#B41717)
 
 <div align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alexis-massa&langs_count=10&layout=compact&theme=transparent&role=OWNER" alt="Alexis Massa Top Languages"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alexis-massa&langs_count=10&layout=compact&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Alexis Massa Top Languages"/>
 </div>
 
 ##  Tools, IDEs and Softwares:
