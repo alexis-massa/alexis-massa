@@ -9,6 +9,8 @@
     <img alt="Alexis Massa | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O3NGD1O)
 </div>
 
 <!-- TODO -->
