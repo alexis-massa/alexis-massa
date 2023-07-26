@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello! 👋;I'm+Alexis+Massa;Welcome+to+my+profile!">
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!%20%F0%9F%91%8B;I%27m+Alexis+Massa;Welcome+to+my+profile!"> 
+    </img>
 <p align="center">Contact me : 
   <a href="mailto:pro.alexis.massa@gmail.com" >
     <img alt="Alexis Massa | Gmail" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
