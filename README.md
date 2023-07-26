@@ -99,8 +99,7 @@
 </picture>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox#gh-dark-mode-only" />
-    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox#gh-light-mode-only" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox" />
 </div>
 
 ---
