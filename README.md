@@ -53,7 +53,9 @@
 ![Angular](https://img.shields.io/badge/angular-grey.svg?style=for-the-badge&logo=angular&logoColor=#DD0031)
 ![Jinja](https://img.shields.io/badge/jinja-grey.svg?style=for-the-badge&logo=jinja&logoColor=#B41717)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-massa&layout=compact&theme=dark" alt="Alexis Massa Top Languages"/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-massa&layout=compact&theme=dark" alt="Alexis Massa Top Languages"/>
+</div>
 
 ##  Tools, IDEs and Softwares:
 
@@ -81,9 +83,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="25px"> Stats
 
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alexis-massa&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api?username=alexis-massa&show_icons=true&theme=dark#gh-light-mode-only" />
 </div>
 
 <div align="center">
@@ -98,7 +99,8 @@
 </picture>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox#gh-dark-mode-only" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=gruvbox#gh-light-mode-only" />
 </div>
 
 ---
