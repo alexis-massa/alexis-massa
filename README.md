@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2338C2FF&height=120&section=header"/>
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!%20%F0%9F%91%8B;I%27m+Alexis+Massa;Welcome+to+my+profile!"> 
     </img>
@@ -34,6 +36,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Languages, Libraries and Frameworks:
 
+<div>
+    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alexis-massa&langs_count=10&layout=compact&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Alexis Massa's Top Languages"/>
+    <div>
+
 ![Python](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=#3776AB)
 ![HTML](https://img.shields.io/badge/html-grey.svg?style=for-the-badge&logo=html5&logoColor=#E34F26)
 ![CSS](https://img.shields.io/badge/css-grey.svg?style=for-the-badge&logo=css3&logoColor=#1572B6)
@@ -52,10 +58,10 @@
 ![Spring Boot](https://img.shields.io/badge/spring_boot-grey.svg?style=for-the-badge&logo=springboot&logoColor=#000000)
 ![Angular](https://img.shields.io/badge/angular-grey.svg?style=for-the-badge&logo=angular&logoColor=#DD0031)
 ![Jinja](https://img.shields.io/badge/jinja-grey.svg?style=for-the-badge&logo=jinja&logoColor=#B41717)
-
-<div align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alexis-massa&langs_count=10&layout=compact&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Alexis Massa Top Languages"/>
+    </div>
 </div>
+
+<br/>
 
 ##  Tools, IDEs and Softwares:
 
@@ -96,10 +102,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=alexis-massa&theme=transparent" />
 </div>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2338C2FF&height=120&section=footer"/>
+
 <h2 align="center"> Credits </h2>
 
  - [github-readme-stats](https://github-readme-stats.vercel.app)
  - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
  - [github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com)
  - [simpleicons.org](https://simpleicons.org/)
+
