@@ -38,7 +38,7 @@ Full-stack developer with a taste for both web systems and creative tooling. Wit
 
 ## Projects
 
-- **[GPX_POI_Finder (Private)](https://github.com/alexis-massa/GPX_POI_Finder)** — A Python tool that finds points of interest along a GPX track, useful for planning hiking and outdoor routes.
+- **[GPX_POI_Finder (Private)](https://github.com/alexis-massa/GPX_POI_Finder)** — A Python tool that finds points of interest along a GPX track, useful to plan my bikepacking trips and routes.
 
 - **[directory-indexer](https://github.com/alexis-massa/directory-indexer)** — A Python CLI tool that generates a structured Excel index of all files and sub-folders in a given directory. Packaged as a standalone executable with a changelog and user manual.
 
